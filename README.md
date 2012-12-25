@@ -1,13 +1,2 @@
 # clojurewm
-
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2012 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+This is an experimental repository for creating a window manager in clojure. Currently the plan is to clone tinywm and take it from there.
